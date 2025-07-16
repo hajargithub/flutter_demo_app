@@ -78,6 +78,3 @@ flutter run
 ![emualtor_quiz](assets/images/emulator_weather.png)
 
 
-## 🧠 Author
-
-**Saad EL MABROUK** 
