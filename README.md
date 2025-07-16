@@ -1,6 +1,6 @@
 # 📱 HH_Demo Flutter App
 
-A modern Flutter demo project based on the original work by [saadBr](https://github.com/saadBr). This version includes enhancements, customization, and professional structuring.
+A modern Flutter demo project includes enhancements, customization, and professional structuring.
 
 ---
 
