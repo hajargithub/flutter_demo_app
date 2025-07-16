@@ -1,5 +1,5 @@
 
-name: demo_app
+name: HH_demo_App
 description: A combined Flutter app with Quiz and Weather features
 publish_to: 'none'
 version: 1.0.0+1
