@@ -32,7 +32,7 @@ OPENWEATHER_API_KEY=your_api_key_here
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YourUsername/flutter_demo_app.git
+git clone https://github.com/hajargithub/flutter_demo_app.git
 cd flutter_demo_app
 2. Install dependencies:
 flutter pub get
